@@ -16,3 +16,4 @@ the worm's location to the center of the screen and 'q' stops the program. The p
 8. Click "Continue".
 9. Click the box below the graphic display so the program starts reading user inputs.
 10. Enjoy the game!
+11. Helpful resource: https://acg.cis.upenn.edu/milom/cse240-Fall06/pennsim/pennsim-guide.html
