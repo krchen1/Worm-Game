@@ -7,5 +7,12 @@ the worm's location to the center of the screen and 'q' stops the program. The p
 
 # Using PennSim
 1. Download PennSim.jar file and all other files.
-2. If using Mac, open PennSim by clicking on the launch file.
-3. 
+2. Make sure all files are in the same folder.
+3. If using Mac, open PennSim by clicking on the launch file.
+4. Load lc3os.obj file by typing "load lc3os.obj" in the text space.
+5. Load p3os.obj file by typing "load p3os.obj".
+6. Load worm.obj file using previous step.
+7. Assemble worm.asm file by typing "as worm.asm".
+8. Click "Continue".
+9. Click the box below the graphic display so the program starts reading user inputs.
+10. Enjoy the game!
