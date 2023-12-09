@@ -1,0 +1,8 @@
+#!/bin/bash
+
+path="$0"
+dir=${path%launch}
+cd $dir
+
+java -jar PennSim.jar
+exit
